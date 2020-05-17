@@ -1,0 +1,45 @@
+.header{
+    background-color:#EBD05F;
+    padding:60px;
+    color:#384E55;
+    font-family: "Montserrat", sans-serif;
+    text-align:center;
+    font-size:30px;
+    
+
+}
+.navbar {
+
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .7rem 2rem;
+}
+.container {
+    border: 10px solid white;
+    background-color: white;
+    margin-top: 5rem;
+    padding-bottom: 50px;
+}
+.rounded {
+    border-radius: .25rem!important;
+}
+.container {
+    width: 100%;c
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display:block;
+}
+*, {
+    box-sizing: border-box;
+}
+
+
