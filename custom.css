@@ -8,38 +8,13 @@
     
 
 }
-.navbar {
 
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    padding: .7rem 2rem;
+body {
+    background-image:url(https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s150x150/95363510_245688450103972_6798304072693710848_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=J4AyWaM7FH4AX9atk8Q&oh=cf6e0c930d2b38cb4fa34c8f173810c0&oe=5EEB7EAE) ;
+    width:100%;
 }
-.container {
-    border: 10px solid white;
-    background-color: white;
-    margin-top: 5rem;
-    padding-bottom: 50px;
-}
-.rounded {
-    border-radius: .25rem!important;
-}
-.container {
-    width: 100%;c
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    display:block;
-}
-*, {
-    box-sizing: border-box;
-}
+
+
+
 
 
